@@ -1,10 +1,8 @@
 # LuckyYou
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
 # Description
 
-HKUST  MSBD6000D Blockchain project. A lottery game in Ethereum Smart Contract &amp; Dapp implementation.
+Loterry Blockchain project. A lottery game in Ethereum Smart Contract &amp; Dapp implementation.
 
 # How to use
 1. start ganache in `localhost:7545`
